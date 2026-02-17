@@ -83,7 +83,7 @@ p {
 ul,
 ol {
     margin: 0;
-    padding: 1rem;
+    padding-inline-start: 1rem;
 }
 
 ul[role="list"],
